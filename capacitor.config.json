@@ -1,0 +1,7 @@
+{
+  "appId": "ir.masoud.riskwatch",
+  "appName": "RiskWatch",
+  "webDir": "www",
+  "server": { "androidScheme": "https", "cleartext": true },
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}

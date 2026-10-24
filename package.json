@@ -1,0 +1,13 @@
+{
+  "name": "risk-watch",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Iran war risk monitor (Persian, RTL)",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}
